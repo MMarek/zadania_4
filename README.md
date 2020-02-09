@@ -25,3 +25,12 @@ kluczem `this`, by dodać podaną wewnątrz metody wartość. (wartość w posta
 - odejmowania zapisanych wartości
 - mnożenia zapisanych wartości
 - dzielenia zapisanych wartości
+#
+### - zad.6
+`Obiekt`, będący najpierw w punkcie 0. Posiadający następujące metody:
+- zwiększenie wartości o 1
+- zmniejszenie wartości o 1
+- pokazanie na której wartości aktualnie się znajdujemy
+```JavaScript
+Tym sposobem: trzy kroki do przodu, jeden do tyłu.
+```
