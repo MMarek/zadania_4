@@ -41,3 +41,9 @@ Konstruktor, zawierający tablice ze wszystkimi produktami, oraz sumą za te pro
 Prototyp konstruktora posiada metody:
  - przechowanie nazwy oraz ceny produktu
  - wyświetlanie wszystkich produktów wraz z ceną oraz kwotą
+#
+### -zad.8
+Konstruktor dla `Robota`, dla którego podane jest tylko imię. Metody są dodane do prototypu funkcji.
+ - Metoda powitania
+ - Metoda zmiany imienia
+ - Metoda informująca o dokonanej zmianie
