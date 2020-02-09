@@ -1,4 +1,4 @@
-console.log("EXERCISE 2:");
+console.log("EXERCISE 3:");
 
 const spoon = {
     isExist: true
