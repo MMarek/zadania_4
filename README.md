@@ -4,3 +4,8 @@
 ### - zad.1
 Pierwszy obiekt z wypisanymi w `konsoli właściwościami`.
 Drugi obiekt wraz z metodą, która `przenosi w czasie`. :)
+#
+### - zad.2
+Bardzo podobnie jak w `zad.1` - wypisanie w konsoli właściwości, oraz Drugi obiekt w którym poza właściwościami 
+w konsoli, jest wywołana metoda `sayHello()`.
+
