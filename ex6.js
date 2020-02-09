@@ -1,3 +1,6 @@
+console.log("EXERCISE 6:");
+
+
 const stairs = {
     step: 0,
 
