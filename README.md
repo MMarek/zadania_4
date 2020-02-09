@@ -17,4 +17,11 @@ w konsoli, jest wywołana metoda `sayHello()`.
 ### - zad.4
 Obiekt `car` a z niego wypisane informacje metodą `printCarInfo()`.Natępnie odwołanie się do obiektu wewnątrz metody 
 kluczem `this`, by dodać podaną wewnątrz metody wartość. (wartość w postaci kilometrów, oraz daty w drugiej części zadania).
-
+#
+### - zad.5
+`Kalkulator` posiadający pieć metod: 
+- zapisu podanych wartości
+- dodawania zapisanych wartości
+- odejmowania zapisanych wartości
+- mnożenia zapisanych wartości
+- dzielenia zapisanych wartości
