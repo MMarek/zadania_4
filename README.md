@@ -47,3 +47,13 @@ Konstruktor dla `Robota`, dla którego podane jest tylko imię. Metody są dodan
  - Metoda powitania
  - Metoda zmiany imienia
  - Metoda informująca o dokonanej zmianie
+#
+### -zad.9
+Konstruktor - `Kalkulator` - nie przyjmuje żadnych danych. Każdy nowo stworzony obiekt na pustą tablicę w której 
+przychodzi historia wywołanych operacji. Metody są dodane za pomocą prototypu, a są nimi:
+ - dodawanie
+ - odejmowanie
+ - mnożenie
+ - dzielenie 
+ - wyświetlenie operacji
+ - czyszczenie operacji
