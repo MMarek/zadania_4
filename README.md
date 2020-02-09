@@ -34,3 +34,10 @@ kluczem `this`, by dodać podaną wewnątrz metody wartość. (wartość w posta
 ```JavaScript
 Tym sposobem: trzy kroki do przodu, jeden do tyłu.
 ```
+
+#
+### - zad.7
+Konstruktor, zawierający tablice ze wszystkimi produktami, oraz sumą za te produkty.
+Prototyp konstruktora posiada metody:
+ - przechowanie nazwy oraz ceny produktu
+ - wyświetlanie wszystkich produktów wraz z ceną oraz kwotą
