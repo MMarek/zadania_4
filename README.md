@@ -80,3 +80,6 @@ Funkcja zwracająca wartość `prawda/fałsz` w zależności, czy dana liczba zn
 ### -zad.12
 Funkcja zwracająca `sumę wszystkich elementów tablicy`, będące równe liczbie podanej jako pierwszy element funkcji.
 Jeżeli tablica nie posiada podanej liczby, zwraca `null`
+#
+### -zad.13
+Funkcja zwracająca nową posortowaną tablicę wedle podanej wartosci, `od największej do najmniejszej`.
