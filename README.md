@@ -83,3 +83,7 @@ Jeżeli tablica nie posiada podanej liczby, zwraca `null`
 #
 ### -zad.13
 Funkcja zwracająca nową posortowaną tablicę wedle podanej wartosci, `od największej do najmniejszej`.
+#
+### -zad.14
+Funkcja zwracająca tablice, a w niej `wszystkie dzielniki(malejąco)` podanej liczby. Liczba, będąca mniejsza lub równa 0,
+zwraca `pustą tablicę`.
