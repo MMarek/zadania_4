@@ -76,3 +76,7 @@ Pobieranie elementów ze struktury DOM:
 #
 ### -zad.11
 Funkcja zwracająca wartość `prawda/fałsz` w zależności, czy dana liczba znajduje się w tablicy.
+#
+### -zad.12
+Funkcja zwracająca `sumę wszystkich elementów tablicy`, będące równe liczbie podanej jako pierwszy element funkcji.
+Jeżeli tablica nie posiada podanej liczby, zwraca `null`
