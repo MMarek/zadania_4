@@ -101,3 +101,9 @@ oraz metoda zwracająca tekst przy nich.
 #
 ### -zad.18
 Funkcja zwracająca `pierwiastek` z liczby przyjętej jako parametr.
+#
+### -zad.19
+Funkcja przyjmująca za argument dwie tablice, a zwracająca jedną, będącą `połączeniem dwóch powyższych`.
+#
+### -zad.20
+Funkcja sprawdzająca, czy tekst jest `palindromem`.
