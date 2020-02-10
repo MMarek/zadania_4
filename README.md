@@ -57,3 +57,15 @@ przychodzi historia wywołanych operacji. Metody są dodane za pomocą prototypu
  - dzielenie 
  - wyświetlenie operacji
  - czyszczenie operacji
+#
+### -zad.10
+Pobieranie elementów ze struktury DOM:
+  - pierwszy element `h1`
+  - element o clasie `title`
+  - elementy z atrybutem `data-animation`
+  - ilość elementów `div`
+  - ilość elementów o klasie `offers`
+  - ilość elementów posiadających atrybut `href`
+  - element `id`
+  - pierwszy element `li` z atrybutem `data-direction`
+  - pierwszy element o klasie `block`
