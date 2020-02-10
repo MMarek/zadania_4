@@ -90,3 +90,7 @@ zwraca `pustą tablicę`.
 #
 ### -zad.15
 Funkcja przyjmująca za argument rosnąco liczby całkowite w tablicy, oraz zwraca `pierwszą brakującą` w ciągu.
+#
+### -zad.16
+Funkcja przyjmująca dwa argumenty: `liczbę, oraz tablicę`. Zwraca ilość elementów z tablicy, `równą wartości 
+pierwszego argumentu`. Gdy pierwszego argumentu brak, albo nie jest on liczbą, zwraca `pustą tablicę`.
