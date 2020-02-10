@@ -74,3 +74,5 @@ Pobieranie elementów ze struktury DOM:
   - wszystkie `divy` w tagu `article`
   - klasa `first` w tagu `article`
 #
+### -zad.11
+Funkcja zwracająca wartość `prawda/fałsz` w zależności, czy dana liczba znajduje się w tablicy.
