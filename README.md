@@ -69,3 +69,8 @@ Pobieranie elementów ze struktury DOM:
   - element `id`
   - pierwszy element `li` z atrybutem `data-direction`
   - pierwszy element o klasie `block`
+  - wszystkie elementy `li` w tagu `nav`
+  - wszystkie `paragrafy` należące do wszystkich elementów `div`
+  - wszystkie `divy` w tagu `article`
+  - klasa `first` w tagu `article`
+#
