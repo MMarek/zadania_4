@@ -87,3 +87,6 @@ Funkcja zwracająca nową posortowaną tablicę wedle podanej wartosci, `od najw
 ### -zad.14
 Funkcja zwracająca tablice, a w niej `wszystkie dzielniki(malejąco)` podanej liczby. Liczba, będąca mniejsza lub równa 0,
 zwraca `pustą tablicę`.
+#
+### -zad.15
+Funkcja przyjmująca za argument rosnąco liczby całkowite w tablicy, oraz zwraca `pierwszą brakującą` w ciągu.
