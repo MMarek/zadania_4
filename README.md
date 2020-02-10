@@ -98,3 +98,6 @@ pierwszego argumentu`. Gdy pierwszego argumentu brak, albo nie jest on liczbą, 
 ### -zad.17
 Funkcja stworzona przy pomocy konstruktora, posiadająca właściwość `type` przechowująca `typ`. Dodatkowe 3 obiekty, 
 oraz metoda zwracająca tekst przy nich.
+#
+### -zad.18
+Funkcja zwracająca `pierwiastek` z liczby przyjętej jako parametr.
