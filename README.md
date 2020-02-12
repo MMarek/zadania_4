@@ -107,3 +107,8 @@ Funkcja przyjmująca za argument dwie tablice, a zwracająca jedną, będącą `
 #
 ### -zad.20
 Funkcja sprawdzająca, czy tekst jest `palindromem`.
+
+#
+Działanie kodu na: https://mmarek.github.io/zadania_4/index.html
+`obecność inspektora jest niezbędna` :)
+###Zapraszam!
